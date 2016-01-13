@@ -1,0 +1,18 @@
+{
+  "name": "ast-easylitics",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "http-server --cors",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lafin <kuvakin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "babel-core": "^6.4.0",
+    "http-server": "^0.8.5",
+    "recursive-readdir": "^1.3.0"
+  }
+}
